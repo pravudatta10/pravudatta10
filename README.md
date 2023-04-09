@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mrpravudatta10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TjhRqjfHZ6Sata1c_kh9jAoc5GjSAGcv/view?usp=share_link](https://drive.google.com/file/d/1TjhRqjfHZ6Sata1c_kh9jAoc5GjSAGcv/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ayioRIqOMjjS5XdeE-7-QrdZrl3m0ogM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
