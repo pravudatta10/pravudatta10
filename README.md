@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working at [Nichebit Softech PVT.LTD ,Hyderabad](https://www.nichebit.com/)
 
-- 🌱 I’m currently learning **Angular13 , react , DataStructure**
+- 🌱 I’m currently learning **React , DataStructure**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **mrpravudatta10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ayioRIqOMjjS5XdeE-7-QrdZrl3m0ogM/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1ayioRIqOMjjS5XdeE-7-QrdZrl3m0ogM/view?usp=sharing](https://drive.google.com/file/d/1lnKOHMMp1Q4EG-7-jZWEd194HsPECgCb/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
