@@ -1,25 +1,19 @@
  
 <h1 align="center">Hi 👋, I'm Pravudatta Kar</h1>
-<h3 align="center">A vigorous FullStack Java developer from Odisha,India .</h3>
+<h3 align="center">A  FullStack Java developer from Odisha,India .</h3>
 <img src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif" alt="Image"align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravudatta10&label=Profile%20views&color=0e75b6&style=flat" alt="pravudatta10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pravudattakar1" target="blank"><img src="https://img.shields.io/twitter/follow/pravudattakar1?logo=twitter&style=for-the-badge" alt="pravudattakar1" /></a> </p>
+<p align="left"> <a href="https://x.com/PravudattaBytes" target="blank"><img src="https://img.shields.io/twitter/follow/pravudattakar1?logo=twitter&style=for-the-badge" alt="PravudattaBytes" /></a> </p>
 
 - 🔭 I’m currently working at [Nichebit Softech PVT.LTD ,Hyderabad](https://www.nichebit.com/)
 
-- 🌱 I’m currently learning **React , DataStructure**
-
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **mrpravudatta10@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lnKOHMMp1Q4EG-7-jZWEd194HsPECgCb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pravudattakar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravudattakar1" height="30" width="40" /></a>
+<a href="https://x.com/PravudattaBytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravudattakar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pravudatta kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravudatta kar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pravudatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pravudatta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karpravudatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karpravudatta" height="30" width="40" /></a>
