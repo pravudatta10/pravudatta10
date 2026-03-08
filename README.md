@@ -133,24 +133,20 @@ Java Consultant | Full Stack Developer | AI Systems Builder
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pravudatta10&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pravudatta10&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravudatta10&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravudatta10&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravudatta10&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=pravudatta10&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
