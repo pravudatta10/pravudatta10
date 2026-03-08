@@ -160,29 +160,6 @@ Java Consultant | Full Stack Developer | AI Systems Builder
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pravudatta10&theme=tokyonight"/>
 
 </p>
-
----
-
-# 📊 Skill Progress
-
-Java
-████████████████████ 95%
-
-Spring Boot
-██████████████████ 90%
-
-Microservices
-██████████████████ 90%
-
-Angular
-██████████████ 80%
-
-AI / GenAI
-████████████████ 85%
-
-Cloud
-██████████████ 80%
-
 ---
 
 # 🚀 Featured Projects
