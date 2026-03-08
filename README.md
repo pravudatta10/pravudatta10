@@ -160,7 +160,6 @@ Java Consultant | Full Stack Developer | AI Systems Builder
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pravudatta10&theme=tokyonight"/>
 
 </p>
----
 
 # 🚀 Featured Projects
 
