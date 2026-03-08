@@ -4,6 +4,8 @@
 Java Consultant | Full Stack Developer | AI Systems Builder
 </p>
 
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Java+Consultant+%7C+Full+Stack+Developer;Microservices+Architecture+Expert;AI+%2F+GenAI+Systems+Engineer;Spring+Boot+%7C+Angular+%7C+Cloud+Native+Developer;Building+Scalable+Distributed+Systems" />
 </p>
