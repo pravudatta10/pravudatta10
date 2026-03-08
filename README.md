@@ -1,33 +1,258 @@
- 
 <h1 align="center">Hi 👋, I'm Pravudatta Kar</h1>
-<h3 align="center">A  FullStack Java developer from Odisha,India .</h3>
-<img src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif" alt="Image"align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravudatta10&label=Profile%20views&color=0e75b6&style=flat" alt="pravudatta10" /> </p>
-
-<p align="left"> <a href="https://x.com/PravudattaBytes" target="blank"><img src="https://img.shields.io/twitter/follow/pravudattakar1?logo=twitter&style=for-the-badge" alt="PravudattaBytes" /></a> </p>
-
-- 🔭 I’m currently working at [Birlasost](https://www.birlasoft.com/)
-
-- 📫 How to reach me **mrpravudatta10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/PravudattaBytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravudattakar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pravudatta kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravudatta kar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pravudatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pravudatta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karpravudatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karpravudatta" height="30" width="40" /></a>
+<p align="center">
+Java Consultant | Full Stack Developer | AI Systems Builder
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=cdYUlRaag9G9&format=png" alt="docker" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=96&id=33039&format=png" alt="aws" width="40" height="40"/> </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Java+Consultant+%7C+Full+Stack+Developer;Microservices+Architecture+Expert;AI+%2F+GenAI+Systems+Engineer;Spring+Boot+%7C+Angular+%7C+Cloud+Native+Developer;Building+Scalable+Distributed+Systems" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravudatta10&show_icons=true&locale=en&layout=compact" alt="pravudatta10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravudatta10&show_icons=true&locale=en" alt="pravudatta10" /></p>
+<img align="right" alt="coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravudatta10&" alt="pravudatta10" /></p>
+# 👨‍💻 About Me
+
+🚀 Full Stack Java Developer specializing in **enterprise backend systems, distributed microservices, and AI-powered applications**.
+
+💡 I design **high-performance backend platforms** using modern Java and cloud-native technologies.
+
+🧠 I also build **AI-powered applications using RAG pipelines, vector search, and LLM integrations**.
+
+⚡ Focus Areas
+
+- Microservices Architecture
+- Cloud Native Systems
+- GenAI Platform Development
+- Enterprise Backend Engineering
+- High Performance APIs
+- Distributed System Observability
+
+📍 Location: **India**
+
+📫 Email: **mrpravudatta10@gmail.com**
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Deloitte — Java Consultant
+**Nov 2025 – Present**
+
+- Designing scalable backend services using **Java 17, Spring Boot, gRPC**
+- Building enterprise **procurement and sales tooling**
+- Implementing **RBAC security across microservices**
+- Improving **observability across distributed systems**
+- Deploying cloud-native services on **Google Cloud Platform**
+- Optimizing **performance and reliability of backend systems**
+
+---
+
+## 🏢 Birlasoft — Software Engineer
+**Sept 2024 – Nov 2025**
+
+- Built **AI analytics platform using RAG**
+- Integrated **GPT-4 and LLaMA models**
+- Implemented **vector search and embeddings**
+- Built **reactive streaming APIs using Spring WebFlux**
+- Secured microservices using **JWT authorization**
+- Deployed scalable services on **AWS**
+
+---
+
+## 🏢 Nichebit — Software Developer
+**July 2022 – Sept 2024**
+
+- Developed **Spring Boot microservices**
+- Built enterprise **insurance automation systems**
+- Designed **Angular frontend modules**
+- Implemented **JWT authentication**
+- Built automated **reporting systems**
+- Supported **production deployments**
+
+---
+
+# 🤖 AI / GenAI Expertise
+
+- Retrieval Augmented Generation (**RAG**)
+- **GPT-4** Enterprise Integrations
+- **LLaMA Models**
+- Vector Databases
+- Embeddings & Semantic Search
+- AI Document Intelligence
+- AI Workflow Automation
+
+---
+
+# 🏗 Microservices Architecture
+
+- Domain Driven Design
+- Distributed Systems
+- gRPC Services
+- RESTful APIs
+- Reactive Programming (WebFlux)
+- Event Driven Architecture
+- Observability & Monitoring
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring WebFlux](https://img.shields.io/badge/Spring-WebFlux-green?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-Backend-orange?style=for-the-badge)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+### Security
+![Spring Security](https://img.shields.io/badge/SpringSecurity-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-blue?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-red?style=for-the-badge)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pravudatta10&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravudatta10&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravudatta10&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pravudatta10&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Developer Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pravudatta10&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📅 3D Contribution Calendar
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pravudatta10&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Skill Progress
+
+Java
+████████████████████ 95%
+
+Spring Boot
+██████████████████ 90%
+
+Microservices
+██████████████████ 90%
+
+Angular
+██████████████ 80%
+
+AI / GenAI
+████████████████ 85%
+
+Cloud
+██████████████ 80%
+
+---
+
+# 🚀 Featured Projects
+
+🔹 AI Microservices Platform  
+🔹 Enterprise Procurement Backend  
+🔹 RAG AI Analytics Platform  
+🔹 Angular Enterprise Dashboard  
+🔹 Distributed Backend Systems
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mrpravudatta10@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pravudatta10">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pravudatta10&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⚡ Building Scalable Systems • Cloud Native Platforms • AI Powered Applications
+</h3>
