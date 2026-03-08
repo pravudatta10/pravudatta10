@@ -133,16 +133,6 @@ Java Consultant | Full Stack Developer | AI Systems Builder
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pravudatta10&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
 # 📈 Developer Activity Graph
 
 <p align="center">
