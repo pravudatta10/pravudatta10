@@ -20,7 +20,7 @@
 
 ### 🌱 Background
 
-4+ years as a full-stack engineer — Java/Spring Boot backends, Angular frontends, cloud-native microservices on GCP & AWS, plus hands-on LLM/RAG integration (GPT-4, LLaMA 3). GCP Certified.
+4+ years as a full-stack engineer — Java/Spring Boot backends, Angular frontends, cloud-native microservices on GCP & AWS, plus hands-on LLM/RAG integration (GPT-4, LLaMA 3) .
 
 <br>
 
